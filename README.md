@@ -1,2 +1,2 @@
 # Pong-game
-A classic Pong game with PvP mode and PvComputer mode
+A classic Pong game with PvP mode and PvComputer mode. The game starts off really slowly with the paddles and ball moving at very low speeds. However, after every 3 bounces off a paddle the ball will speed up a little bit. The speed of the paddle you control is direcly related to the number of points your opponent has. Every time a goal is scored, the ball resets to the middle of the screen. The game goes up to seven. Overall, I feel like the code is quite long and some parts unnecessary but it's a working progress. 
